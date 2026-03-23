@@ -1,6 +1,3 @@
-Да
-вот готовый `README.md` под твой проект
-можешь просто вставить в GitHub
 
 ````markdown
 # Walmart Weekly Sales Predictor
